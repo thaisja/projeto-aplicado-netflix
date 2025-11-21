@@ -32,4 +32,7 @@ Disponível em: https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data
 
 Execução
 
-Abra o notebook na pasta notebooks/ e execute as células em ordem.
+Abra o notebook na pasta notebooks/ e execute as células em ordem./
+
+Vídeo Apresentação
+https://youtu.be/bVIqFEwmbHQ
